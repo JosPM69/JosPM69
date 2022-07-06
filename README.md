@@ -3,6 +3,8 @@
 <p>I am an autonomous person who is always in constant learning, willing to teach and learn from others. I am currently a graduate of HackSpace Bootcamp denominated "Data Analytics for Marketing". I would like to be part of a company where I can apply all my knowledge and at the same time continue to grow professionally.
 </p>
 
+<img align='right' src='https://media4.giphy.com/media/HLB0nLA36GCCo6JuB5/giphy.gif?cid=ecf05e47192ma75oxnzyx9hr1kvclt5o65b2rgwufa7tjuvw&rid=giphy.gif&ct=g' width='200'>
+
 # 💻Tech Stack
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![SQLServer](https://img.shields.io/badge/SQL%20SERVER-blue?logo=microsoft-sql-server&style=for-the-badge)
