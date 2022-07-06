@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Josué</h1>
-<h3 align="center">A passionate Data Analytics from Perú pe🇴</h3>
+<h3 align="center">A passionate Data Analytics from Perú pe</h3>
 <p>I am an autonomous person who is always in constant learning, willing to teach and learn from others. I am currently a graduate of HackSpace Bootcamp denominated "Data Analytics for Marketing". I would like to be part of a company where I can apply all my knowledge and at the same time continue to grow professionally.
 </p>
 
